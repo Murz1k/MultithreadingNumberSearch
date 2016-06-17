@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Murz1k.MultithreadingNumberSearch.App", "Murz1k.MultithreadingNumberSearch.App\Murz1k.MultithreadingNumberSearch.App.csproj", "{DD83354C-36CE-44F6-A2B7-B905837EDD4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Murz1k.MultithreadingNumberSearch.Model", "Murz1k.MultithreadingNumberSearch.Model\Murz1k.MultithreadingNumberSearch.Model.csproj", "{462D9AC9-DE8A-4D89-BFDD-B25164BF1845}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD83354C-36CE-44F6-A2B7-B905837EDD4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD83354C-36CE-44F6-A2B7-B905837EDD4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD83354C-36CE-44F6-A2B7-B905837EDD4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD83354C-36CE-44F6-A2B7-B905837EDD4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{462D9AC9-DE8A-4D89-BFDD-B25164BF1845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{462D9AC9-DE8A-4D89-BFDD-B25164BF1845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{462D9AC9-DE8A-4D89-BFDD-B25164BF1845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{462D9AC9-DE8A-4D89-BFDD-B25164BF1845}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
